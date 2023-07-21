@@ -1,0 +1,9 @@
+sys
+aaa
+local-user netadmin password irreversible-cipher HeYiZhuangCheng1927
+local-user netadmin privilege level 5
+Y
+local-user netadmin service-type ssh
+return
+sa
+Y
